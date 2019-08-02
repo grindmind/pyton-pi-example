@@ -1,4 +1,7 @@
 
 #!/usr/bin/python3
 
-print("Hi Friend")
+def main(msg):
+    print(msg)
+
+main("Hi Friend")
